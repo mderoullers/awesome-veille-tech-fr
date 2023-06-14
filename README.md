@@ -4,7 +4,21 @@ Ici, tu trouveras toutes les informations pour faire une veille efficace 💪
 
 > ℹ️ Ce projet est collaboratif, s'il manque des informations, n'hésite pas à contribuer en faisant une Pull Request.
 
-{{TOC}}
+* [Pour faire sa veille](#pour-faire-sa-veille)
+	* [Github](#github)
+	* [Extensions navigateur web](#extensions-navigateur-web)
+	* [Blogs](#blogs)
+	* [Twitter](#twitter)
+	* [Youtube](#youtube)
+	* [Podcasts](#podcasts)
+* [Pour construire sa roadmap](#pour-construire-sa-roadmap)
+* [Pour pratiquer](#pour-pratiquer)
+	* [Side Projects](#side-projects)
+	* [Coding Games](#coding-games)
+	* [Projets Opensource](#projets-opensource)
+* [Pour organiser ses notes](#pour-organiser-ses-notes)
+	* [Les outils](#les-outils)
+	* [Méthodes](#méthodes)
 
 ## Pour faire sa veille
 
