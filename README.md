@@ -15,7 +15,7 @@ Ici, tu trouveras toutes les informations pour faire une veille efficace 💪
 - [Collections](https://github.com/collections) : propose des listes de projets préparées sur un sujet donné.
 
 ### Extensions navigateur web
-Daily.dev : une extension chrome qui te propose des articles tech à lire en fonction de tes préférences. Idéal pour découvrir de nouvelles choses sur les sujets qui t'intéressent.
+[Daily.dev](https://daily.dev/) : une extension chrome qui te propose des articles tech à lire en fonction de tes préférences. Idéal pour découvrir de nouvelles choses sur les sujets qui t'intéressent.
 
 ### Blogs
 
