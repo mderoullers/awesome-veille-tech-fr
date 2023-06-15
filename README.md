@@ -34,6 +34,7 @@ Ici, tu trouveras toutes les informations pour faire une veille efficace 💪
 ### Blogs
 
 - [Le Journal du Hacker](https://www.journalduhacker.net/)
+- [Hacker News](https://news.ycombinator.com/)
 - [Dev.to](https://dev.to/)
 - [Medium](https://medium.com/)
 
@@ -75,9 +76,17 @@ Une [liste d'applications de Coding Games](https://github.com/michelpereira/awes
 
 Le repo [Awesome for beginners](https://github.com/MunGell/awesome-for-beginners) est idéal pour apprendre un langage tout en contribuant à l'opensource.
 
-## Pour organiser ses notes
+## Pour traiter l'information
 
-Prendre des notes, ça prend du temps mais ne pas prendre de notes, c'est perdre son temps.
+### Agrégateur de contenu
+
+- [readwise.io](https://readwise.io/): c'est le meilleur outils pour capturer de l'information selon moi. Ils ont fait aussi [reader](https://readwise.io/read) qui est encore plus complet et te permet d'agréger et prendre des notes sur n'importe quel type de document (newsletters, pdf, articles, videos, podcasts, etc.)
+- [Feedly](https://feedly.com/): lecteur de flux RSS
+- [Inoreader](https://www.inoreader.com/fr/): lecteur de flux RSS
+
+### Prise de notes
+
+> Prendre des notes, ça prend du temps mais ne pas prendre de notes, c'est perdre son temps.
 
 Pour faire une veille efficace, tu dois prendre des notes sur ce que tu apprends afin de te construire ton second cerveau digital. Cela t'aidera à te remémorer ce que tu as appris et à en extraire les concepts. 
 
