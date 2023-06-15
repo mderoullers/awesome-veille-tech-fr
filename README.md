@@ -86,7 +86,7 @@ Le repo [Awesome for beginners](https://github.com/MunGell/awesome-for-beginners
 
 ### Bookmark
 
-- [Raindrop](https://raindrop.io/): outils qui permets de sauvegarder et retrouver les sites qui t'intéressent facilement grâce à un système de tags. La version gratuite est suffisante pour ça. L'idée est de mettre tous les tags qui te viennent en tête quand tu sauvegardes un site avec et ensuite tu vas faire des recherches sur ces tags pour retrouver ton site. Plus besoin de s'embêter à gérer des dossiers et des sous-dossiers en voulant tout classer.
+- [Raindrop](https://raindrop.io/): outils qui permet de sauvegarder et retrouver les sites qui t'intéressent facilement grâce à un système de tags. La version gratuite est suffisante pour ça. L'idée est de mettre tous les tags qui te viennent en tête quand tu sauvegardes un site avec et ensuite tu vas faire des recherches sur ces tags pour retrouver ton site. Plus besoin de s'embêter à gérer des dossiers et des sous-dossiers en voulant tout classer.
 
 ### Prise de notes
 
