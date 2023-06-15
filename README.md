@@ -84,17 +84,19 @@ Le repo [Awesome for beginners](https://github.com/MunGell/awesome-for-beginners
 - [Feedly](https://feedly.com/): lecteur de flux RSS
 - [Inoreader](https://www.inoreader.com/fr/): lecteur de flux RSS
 
+### Bookmark
+
+- [Raindrop](https://raindrop.io/): outils qui permets de sauvegarder et retrouver les sites qui t'intéressent facilement grâce à un système de tags. La version gratuite est suffisante pour ça. L'idée est de mettre tous les tags qui te viennent en tête quand tu sauvegardes un site avec et ensuite tu vas faire des recherches sur ces tags pour retrouver ton site. Plus besoin de s'embêter à gérer des dossiers et des sous-dossiers en voulant tout classer.
+
 ### Prise de notes
 
 > Prendre des notes, ça prend du temps mais ne pas prendre de notes, c'est perdre son temps.
 
-Pour faire une veille efficace, tu dois prendre des notes sur ce que tu apprends afin de te construire ton second cerveau digital. Cela t'aidera à te remémorer ce que tu as appris et à en extraire les concepts. 
+Pour faire une veille efficace, tu dois prendre des notes sur ce que tu apprends afin de te construire ton second cerveau digital. Cela t'aidera à te remémorer l'information et à en extraire les concepts. 
 
-Tu retrouveras ci-dessous, une liste d'outils et de méthodes qui t'aideront dans ta prise de notes.
+Mais comment choisir son application de prise de notes ?
 
-### Les outils
-
-J'ai une préférence pour les applications de prise de notes qui permettent de faire des liens bidirectionnels ("Backlink" en anglais) comme Obsidian. Cependant, tu trouveras ici toute une liste d'applications reconnues pour la prise de note à toi de choisir celle qui te convient le mieux :
+J'ai une préférence pour les applications qui permettent de faire des liens bidirectionnels ("Backlink" en anglais) comme Obsidian. Cependant, tu trouveras ici toute une liste d'applications reconnues dans la prise de notes, à toi de choisir celle qui te conviendra le mieux :
 
 - [Obsidian](https://obsidian.md/)
 - [Notion](https://www.notion.so/product?gspk=ZWxpdGVkaWdpdGFsMjMxNQ&gsxid=hAY8FPKBXfGG&pscd=affiliate.notion.so)
