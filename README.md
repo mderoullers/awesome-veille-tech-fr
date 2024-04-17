@@ -107,6 +107,9 @@ J'ai une préférence pour les applications qui permettent de faire des liens bi
 - [GoodNotes](https://www.goodnotes.com/)
 - [Evernote](https://evernote.com/intl/fr)
 - [Bear](https://bear.app/)
+- [Reflect](https://reflect.app/)
+- [Capacities](https://capacities.io/)
+- [Anytype](https://anytype.io/)
 
 > ⚠️ Certaines applications comme Obsidian permettent de tout customiser avec de nombreux plugins, tu peux vite y passer beaucoup de temps. D'autres te proposent un système prêt à utiliser. Choisit ton application en fonction de tes besoins et du temps que tu es prêt à y consacrer.
 
