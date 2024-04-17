@@ -110,6 +110,8 @@ J'ai une préférence pour les applications qui permettent de faire des liens bi
 - [Reflect](https://reflect.app/)
 - [Capacities](https://capacities.io/)
 - [Anytype](https://anytype.io/)
+- [Tana](https://tana.inc/)
+- [Amplenote](https://www.amplenote.com/)
 
 > ⚠️ Certaines applications comme Obsidian permettent de tout customiser avec de nombreux plugins, tu peux vite y passer beaucoup de temps. D'autres te proposent un système prêt à utiliser. Choisit ton application en fonction de tes besoins et du temps que tu es prêt à y consacrer.
 
